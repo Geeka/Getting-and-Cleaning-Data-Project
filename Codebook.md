@@ -1,6 +1,6 @@
 ###Course Project:Getting and Cleaning Data Codebook
 
-The following steps were followed to convert the given raw data into a tidy dataset
+The following steps were followed to convert the given raw data into a tidy dataset.This is also explained in the comments of the run_analysis script file
 
 Step 1: Merges the training and the test sets to create one data set.
 The raw data was read from the files X_test.txt and X_train.txt
