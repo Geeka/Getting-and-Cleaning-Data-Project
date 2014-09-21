@@ -1,7 +1,7 @@
 Getting-and-Cleaning-Data-Project
 =================================
 
-Assignment 
+
 
 Data files to be in a folder called 'data' 
 
