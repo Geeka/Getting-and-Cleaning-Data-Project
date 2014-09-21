@@ -1,4 +1,4 @@
-Cleaning and obtaining a tidy dataset Assignment
+###Cleaning and obtaining a tidy dataset Assignment
 
 The following steps were followed to convert the given raw data into a tidy dataset
 
